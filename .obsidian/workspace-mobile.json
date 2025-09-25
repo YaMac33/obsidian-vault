@@ -25,13 +25,18 @@
             "id": "6b3a2b910b45aa8e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GPT01.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "GPT01"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "A11 期間計算.md",
+            "file": "A12 CursorにあるファイルをGitHubにpushする流れ.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -164,10 +169,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "560b6e7ba184543c",
+  "active": "6b3a2b910b45aa8e",
   "lastOpenFiles": [
-    "A13 Cursorで質問して回答をもらう方法.md",
+    "AI01.md",
+    "GPT01.md",
+    "無題のファイル.md",
     "A12 CursorにあるファイルをGitHubにpushする流れ.md",
+    "2025-09-28-01 GitHubにおける「Jekyll（ジキル）」とは？初心者向け徹底解説 🚀.md",
+    "000.md",
+    "A13 Cursorで質問して回答をもらう方法.md",
     "A14 nodejsのインストール方法.md",
     "A06 カレンダーで日付を選択させる.md",
     "A11 期間計算.md",
@@ -187,11 +197,6 @@
     "U08 GitHub Desktop.md",
     "A01 JS解説1.md",
     "U06 GitHub のソースコードの探し方.md",
-    "V01 今後学習したいもの.md",
-    "U06 共通ヘッダーとか.md",
-    "P28 各ページ・各コンテンツのHTMLファイル内に書くコード文.md",
-    "P20 ローマ字変換ページのコード例.md",
-    "P21.md",
     "無題243_20250914094751.png",
     "IMG_0262.jpeg",
     "無題245_20250914221703.png",
