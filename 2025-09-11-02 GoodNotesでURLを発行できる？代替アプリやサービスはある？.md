@@ -1,0 +1,77 @@
+[[2025-09-11-01 iPadでインラインSVGのページを作成できる？]]
+
+## 結論
+現時点（2025年時点）では、**GoodNotes単体で「ノートをそのままWeb公開するためのURLを自動発行する機能」はありません**。GoodNotesはあくまで「手書きノートアプリ」としての機能に特化しており、共有方法はPDFや画像としてのエクスポートが基本です。  
+
+ただし、いくつかの方法や代替アプリを組み合わせれば、「WebページとしてURLを発行する」のと近い体験を得ることができます。
+
+## GoodNotesの共有機能
+- **PDFや画像としてエクスポート**  
+  - メール、AirDrop、クラウドストレージ経由で共有可能。  
+- **iCloudやクラウド連携**  
+  - iCloudやGoogle Driveに保存したファイルを「共有リンク」として配布できる。  
+  - ただし表示はあくまでPDFや画像であり、GoodNotesの「そのまま編集可能な形式」ではない。  
+
+## 代替できるアプリ・サービス
+
+### 1. Notability
+- GoodNotesと並ぶ人気の手書きノートアプリ。  
+- **「Notabilityのノートをリンク共有」**という機能があり、クラウド経由で他人にURLを発行可能。  
+- 受け取った人はWebブラウザから内容を閲覧できる。  
+
+### 2. OneNote（Microsoft）
+- 手書き入力に対応。  
+- **ノート単位でWeb共有用のリンクを発行**できる。  
+- 閲覧者はOneNoteアプリやブラウザで中身を確認可能。  
+
+### 3. Google Docs / Jamboard 代替（FigJamやMiro）
+- iPadの手書き入力（Apple Pencil）に対応。  
+- リアルタイムで共同編集でき、**リンクを発行してすぐに共有**可能。  
+
+### 4. Obsidian + Excalidrawプラグイン
+- テキストベースのノートアプリだが、手書き風の描画プラグイン「Excalidraw」と組み合わせれば、手書きページを作成可能。  
+- Obsidian Publishを使えば**URL発行で公開**できる。  
+
+### 5. Evernote
+- 手書きメモも保存可能。  
+- ノートごとに共有リンクを発行でき、Web経由で閲覧可能。  
+
+## 補助的な方法（GoodNotesを活かす場合）
+- GoodNotes → **PDFエクスポート → Google DriveやDropboxで共有リンク発行**  
+- GoodNotes → **画像エクスポート → noteブログやNotionに貼り付け → そのURLを公開**  
+- この方法ならGoodNotesをそのまま使いながら「実質的にWeb公開」が可能。  
+
+## まとめ
+- GoodNotes自体には「URL発行機能」はない。  
+- 代替案としては、**Notability・OneNote・Evernote・Obsidian Publish**などが便利。  
+- どうしてもGoodNotesを使いたい場合は、**クラウドストレージ＋共有リンク**で「擬似的な公開」を実現するのがおすすめ。  
+
+※この記事はChatGPTの回答を基に作成しています。
+
+---
+
+関連ページ（予定含む）  
+01 手書き記事をそのまま掲載できるブログサービスはある？
+02 手書き風の文章をWebページに直接掲載する方法はある？  
+03 HTMLの`<canvas>`要素で筆跡風の描画を実装する方法  
+04 SVGとは何か？ — 手書き文字を劣化なく表示するための基本  
+05 iPadでインラインSVGのページを作成できる？  
+06 当記事
+07 手書きページ作成とURL共有ができる無料サービスはある？  
+08 iPadでMicrosoft OneNoteを使って手書きページを共有できる？  
+09 OneNoteの共有URLをiframeでWebページに埋め込める？
+
+---
+
+[https://note.com/smartsidenote/n/n10c00284a152](https://note.com/smartsidenote/n/n10c00284a152)
+
+[https://note.com/smartsidenote/n/n9f985989105f](https://note.com/smartsidenote/n/n9f985989105f)
+
+[https://note.com/smartsidenote/n/nc51934d20f35](https://note.com/smartsidenote/n/nc51934d20f35)
+
+[https://note.com/smartsidenote/n/n1f804012414d](https://note.com/smartsidenote/n/n1f804012414d)
+
+[https://note.com/smartsidenote/n/n96c1a5141b1d](https://note.com/smartsidenote/n/n96c1a5141b1d)
+
+
+[[2025-09-11-03 手書きページ作成とURL共有ができる無料サービスはある？]]

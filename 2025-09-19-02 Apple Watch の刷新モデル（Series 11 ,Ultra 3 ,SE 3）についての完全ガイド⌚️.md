@@ -1,0 +1,93 @@
+[[2025-09-18-02 Appleの発表：iPhone 17シリーズ以外に何が発表されたか？🎉]]
+
+https://note.com/smartsidenote/n/nf51568c7cb2d
+https://note.com/smartsidenote/n/n9cf18f5e2bea
+https://note.com/smartsidenote/n/n7ac3a80699c2
+https://note.com/smartsidenote/n/nd6886d123da3
+
+Apple は 2025 年 9 月に、新しい Apple Watch シリーズを発表しました。今までのモデルから何が変わったのか、スペック・機能・用途などを比較しながら詳しく解説します！機能や特徴が多いので、目的別に選びやすく整理しています。🎯
+
+---
+
+## 発表されたモデル一覧
+
+- **Apple Watch SE 3** — エントリーモデルの刷新版  
+- **Apple Watch Series 11** — メインストリーム（中〜上級）モデル  
+- **Apple Watch Ultra 3** — アウトドア／スポーツ重視のフラッグシップモデル  
+
+発売日は共通で **2025年9月19日**、予約開始は同年9月。 [oai_citation:0‡The Verge](https://www.theverge.com/tech/773089/apple-watch-se-3-series-11-ultra-3-preorder-buy-price-release-date?utm_source=chatgpt.com)
+
+---
+
+## 共通して強化されたポイント（新機能・OS共通）📈
+
+以下は全モデルで共通または多くのモデルで対応された新機能です：
+
+- **watchOS 26** の導入 — 新 UI「Liquid Glass」、Workout Buddy（トレーニングを音声でサポートする機能）、Sleep Score（睡眠の質を見える化）など。 [oai_citation:1‡The Verge](https://www.theverge.com/tech/773089/apple-watch-se-3-series-11-ultra-3-preorder-buy-price-release-date?utm_source=chatgpt.com)  
+- 血圧（ハイパーテンション）通知機能（chronic high blood pressure） — 特に Series 11 と Ultra 3 にて強調。 [oai_citation:2‡The Verge](https://www.theverge.com/tech/775584/apple-watch-series-11-ultra-3-se-specs-comparison?utm_source=chatgpt.com)  
+- 5G 通信対応モデルあり — より高速で常時接続が便利に。 [oai_citation:3‡The Verge](https://www.theverge.com/tech/773089/apple-watch-se-3-series-11-ultra-3-preorder-buy-price-release-date?utm_source=chatgpt.com)  
+
+---
+
+## モデル別スペック・特徴比較
+
+### Apple Watch SE 3（エントリーモデル）💡
+
+| 特徴       | 内容                                             |
+| -------- | ---------------------------------------------- |
+| チップ      | **S10** チップ搭載。前世代から性能アップ。                      |
+| 表示       | 初めて **Always-On Display** を搭載。                 |
+| 健康機能     | 睡眠スコア、睡眠時無呼吸の通知、手首温度センサー（生理周期推定のための復帰的排卵推定）など。 |
+| ジェスチャー操作 | ダブルタップ、手首をひねる (“wrist flick”) 動作での操作。          |
+| 通信       | 5G Cellular モデルあり。                             |
+| ガラス      | より耐久性の高い Ion-X ガラスを使用。                         |
+| バッテリー・充電 | 約18時間の通常使用。充電速度向上、15分充電で約8時間相当使用可能。            |
+
+---
+
+### Apple Watch Series 11（中／上位モデル）🌟
+
+| 特徴           | 内容                                                             |
+| ------------ | -------------------------------------------------------------- |
+| 健康機能         | 血圧（ハイパーテンション）通知、新しい睡眠スコア。                                      |
+| ディスプレイ・耐久    | アルミニウムモデルで、ディスプレイのスクラッチ耐性が前世代比で2倍に。                            |
+| 通信           | 5G Cellular 対応。                                                |
+| ジェスチャー / 操作性 | 新しい操作ジェスチャー等（例：手首をひねる／ダブルタップ）が含まれる（SE 3 や Ultra 3 と同様の操作改善あり）。 |
+| バッテリー        | 最大 24 時間頃のバッテリー持続（標準使用時）。                                      |
+
+---
+
+### Apple Watch Ultra 3（アウトドア／プロ仕様）🔥
+
+| 特徴     | 内容                                                 |
+| ------ | -------------------------------------------------- |
+| ディスプレイ | Apple Watch 歴代で最大のディスプレイ。周辺ベゼル（縁）の幅が細くなって画面占有率アップ。 |
+| 衛星通信   | 衛星を使ったメッセージ送信機能（セルラー／WiFi 回線が届かない場所での通信手段）を搭載。     |
+| 健康機能   | 血圧通知（ハイパーテンション）、睡眠スコア等。                            |
+| 通信・チップ | 5G 対応、S チップ世代の採用（効率化と処理能力の向上）                      |
+| バッテリー  | 通常モードで約 **42時間**、Low Power モードでさらに長時間使用可能。         |
+
+---
+
+## 用途別おすすめのモデル
+
+| 使い方 / 優先点                 | 選ぶべきモデル                                               |
+| ------------------------- | ----------------------------------------------------- |
+| コスパ重視・初めて Apple Watch を使う | **SE 3** — 必要十分な健康機能と操作性、最新の機能を抑えつつ価格を抑えたい人向け。        |
+| 健康モニタリング・一般使用             | **Series 11** — 血圧通知・睡眠分析・耐久性などを重視する人に適しています。         |
+| アウトドア／長時間使用／過酷な環境         | **Ultra 3** — 大画面・衛星通信・長時間バッテリーなど、過酷環境や長時間の活動で使う人に最適。 |
+
+---
+
+## 注意点・見ておきたいポイント
+
+- 血圧通知など新しい健康機能は国による認可が必要なものがあるため、居住国で利用可能か事前確認が必要。 [oai_citation:21‡The Verge](https://www.theverge.com/tech/775584/apple-watch-series-11-ultra-3-se-specs-comparison?utm_source=chatgpt.com)  
+- Ultra 3 はサイズや重量が大きくなるので、携帯性・装着感を試してからの購入をおすすめ。  
+- SE 3 では SE シリーズの弱点だった表示の常時点灯や充電速度改善などの強化があるが、標準センサー（例：心拍 ECG や血中酸素など）はモデルによって非搭載の可能性あり。 [oai_citation:22‡The Verge](https://www.theverge.com/news/772862/apple-watch-se-2025-iphone-event-announcement-specs-price?utm_source=chatgpt.com)  
+
+---
+
+※この記事はChatGPTの回答を基に作成しています。  
+
+
+[[2025-09-20-02 新しくなった AirPods Pro 3 の全貌🎧]]

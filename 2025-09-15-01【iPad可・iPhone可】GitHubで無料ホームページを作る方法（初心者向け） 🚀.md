@@ -1,0 +1,157 @@
+![[無題243_20250914094751.png]]
+
+
+
+**ジャンル・カテゴリ:** ハウツー（How-to）🛠️  
+**想定文字数:** 約1,000〜1,500字（初心者が読み切れる量）📚
+
+## 全体の流れ（ざっくり） 🧭
+- GitHubアカウント作成 → リポジトリ作成 → コンテンツ作成（index.html か index.md）→ GitHub Pagesを有効化 → 公開 🎉
+
+関連ページ
+https://note.com/smartsidenote/n/n9f4d97cc0091
+https://note.com/smartsidenote/n/n18646f5cd45e
+
+## 前提（必要なもの） ✅
+- メールアドレス（GitHubアカウント用）📧
+- PC＋ブラウザ🖥️
+　- ※iPadも可。なんならiPhoneも可。
+- ※ローカルで編集して反映させるなら `git` の基本コマンドがあると便利（あとでコマンド例あり）🔧
+
+## ステップ詳細（初心者向け） 🪜
+### 1) GitHubアカウントを作る 📝
+- https://github.com でサインアップ
+- ユーザー名は公開URLに使われるので注意（例: `yourname` → `https://yourname.github.io`）🔎
+
+### 2) リポジトリを作る（公開サイトの種類を選ぶ） 🏷️
+- **プロジェクトサイト**
+  - 任意の名前のリポジトリを作成
+  - 公開は `main` ブランチの `/` か `/docs` ブランチから選択可能（URLは `https://yourname.github.io/repo-name`）📁
+
+![[無題244_20250914212248 1.png]]
+
+
+![[無題244_20250914212552.png]]
+
+![[無題244_20250914212748.png]]
+
+### 3) ファイルを作る方法(一例) ✍️
+- **A: GitHub のウェブ画面で作る（iPadブラウザ・iPhoneブラウザでも可）**
+- **B: ローカル(もしくはGitHub Codespaces)で作って git で push（慣れると便利）**
+
+ここでは、”iPadのブラウザで”、「GitHub のウェブ画面(GitHub Codespaces)で作って git で push」という手法からスタートします。
+
+![[無題245_20250914213133.png]]
+
+
+![[無題245_20250914213222.png]]
+
+
+![[無題245_20250914213648.png]]
+
+
+![[無題245_20250914214023.png]]
+
+
+![[無題245_20250914214115.png]]
+
+
+![[無題245_20250914214151.png]]
+
+
+![[無題245_20250914214249.png]]
+
+
+![[無題245_20250914221703.png]]
+
+
+![[IMG_0262.jpeg]]
+
+
+### 4) 最小限のHTMLテンプレ例（そのまま貼れる） 🧩
+```html
+    <!doctype html>
+    <html lang="ja">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <title>はじめてのサイト</title>
+    </head>
+    <body>
+      <h1>こんにちは！🎉</h1>
+      <p>これはGitHub Pagesで公開した簡単なページです。</p>
+    </body>
+    </html>
+ ```
+
+### 5) index.md（Markdownで書く場合・Jekyll対応） 📝
+```markdown
+---
+title: "はじめてのMarkdownページ"
+---
+# 見出し1
+Markdownで書けばJekyllがHTMLに変換します（簡単！）
+```
+
+### 6) GitHub Pagesを有効にする 🔓
+- リポジトリの「Settings（設定）」→「Pages」へ移動
+- 公開するブランチ（例: `main`）とフォルダ（ルート `/` または `/docs`）を選択して保存
+- 数分で `https://yourname.github.io` または `https://yourname.github.io/repo-name` に公開されます（公開まで少し待つことあり）⏳
+
+![[無題245_20250914214537.png]]
+
+
+![[無題245_20250914214844.png]]
+
+
+![[無題245_20250914214945.png]]
+
+
+![[無題245_20250914215151.png]]
+
+
+![[無題245_20250914220040.png]]
+
+
+![[IMG_0254.jpeg]]
+
+https://yamac33.github.io/repo-name/
+
+
+
+![[IMG_0258.jpeg]]
+
+https://yamac33.github.io/repo-named/
+
+
+
+### 7) カスタムドメイン（独自ドメイン）を使う方法…は省略
+
+## よくあるつまずきと対処法 ❗
+- サイトが表示されない → Pages設定でブランチ／フォルダが正しいか確認、コミットがあるかチェック📌  
+- 変更が反映されない → ブラウザのキャッシュをクリア or ハードリロード（Ctrl/Cmd+Shift+R）🔁  
+- 日本語が文字化けする → `<meta charset="utf-8">` を忘れずに🈶  
+- 独自ドメインでHTTPS問題 → DNS反映待ち、GitHubの「Enforce HTTPS」を確認🔐
+
+## 発展編（次の一歩） 🌱
+- Jekyllのテーマを使って見た目を変える（`_config.yml`を編集）🎨  
+- Hugo / Gatsby / Next.js などの静的サイトジェネレータに移行（機能拡張・高速化）📚  
+- フォーム送信は Formspree や Google Forms を利用（サーバー不要）✉️  
+- GitHub Actionsで自動ビルド・デプロイを学ぶと便利（継続的デプロイ）🤖
+
+## 初心者向けチェックリスト ✅
+- GitHubアカウントを作った 👍  
+- リポジトリ（`yourname.github.io`など）を作成した 👍  
+- `index.html` または `index.md` を追加した 👍  
+- Pages設定で公開を有効にした 👍  
+- 公開URLを確認した（例: `https://yourname.github.io/repo-name/`）🎉
+
+## まとめ ✨
+- 最短ルートは「GitHubのWeb画面で `index.html` を作ってPagesを有効化」すること。まずは表示させてみて、その後ローカル編集やJekyll、独自ドメインの導入など段階的に拡張していきましょう。楽しんで作ってください！💪
+
+---
+
+※この記事はChatGPTの回答を基に作成しています。
+
+
+[[2025-09-17-01 GitHubにおける「リポジトリ」とは？初心者向け解説 📂]]

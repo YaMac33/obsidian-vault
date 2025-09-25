@@ -1,0 +1,71 @@
+[[2025-09-11-03 手書きページ作成とURL共有ができる無料サービスはある？]]
+
+## はじめに
+「iPadで手書きしたページをそのままURLで共有したい」  
+そんなニーズに応えてくれるのが **Microsoft OneNote** です。ここでは、iPadでの利用が可能か、具体的に解説します。
+
+## OneNoteの基本機能
+### 手書き入力
+- Apple Pencilに対応しており、紙のノートのように手書きで文字や図を書くことが可能。  
+- ペンの種類や色を自由に切り替えられる。  
+- 手書きとテキスト、画像を同じページに混在させられる。
+
+### URL共有
+- ノートやセクション、ページ単位で **共有リンクを発行** 可能。  
+- リンクを知っている相手は、Webブラウザから閲覧できる。  
+- 共同編集も可能なので、複数人での作業にも対応。
+
+## iPadでの利用について
+- **アプリ配信**：App Storeから「Microsoft OneNote」を無料でインストール可能。  
+- **必要環境**：Microsoftアカウントがあれば利用できる。  
+- **利用制限**：OneDriveの無料ストレージ（5GB）まで保存可能。追加ストレージが必要な場合は有料。  
+- **操作感**：iPad + Apple Pencilの組み合わせで、GoodNotesに近い快適な書き心地を実現。
+
+## 費用について
+- OneNote自体は **完全無料** で利用可能。  
+- 追加費用が発生するケースは以下のみ：  
+  - OneDriveの無料容量（5GB）を超える場合 → 有料プラン（100GBで月¥224、Microsoft 365契約でさらに増量）  
+
+## まとめ
+- **iPadでの利用**：可能（App Storeから無料インストール可）  
+- **手書き入力**：可能（Apple Pencil対応）  
+- **URL共有**：可能（OneDrive経由でリンク発行）  
+- **費用**：基本無料（大容量を使う場合のみ有料）  
+
+結論として、**iPadで「手書きページを作成してURLを発行」したいなら、Microsoft OneNoteは無料で利用できる最適な選択肢**です。  
+
+※この記事はChatGPTの回答を基に作成しています。
+
+---
+
+関連ページ（予定含む）  
+01 手書き記事をそのまま掲載できるブログサービスはある？
+02 手書き風の文章をWebページに直接掲載する方法はある？  
+03 HTMLの`<canvas>`要素で筆跡風の描画を実装する方法  
+04 SVGとは何か？ — 手書き文字を劣化なく表示するための基本  
+05 iPadでインラインSVGのページを作成できる？  
+06 GoodNotesでURLを発行できる？代替アプリやサービスはある？  
+07 手書きページ作成とURL共有ができる無料サービスはある？  
+08 当記事  
+09 OneNoteの共有URLをiframeでWebページに埋め込める？
+
+---
+
+[https://note.com/smartsidenote/n/n10c00284a152](https://note.com/smartsidenote/n/n10c00284a152)
+
+[https://note.com/smartsidenote/n/n9f985989105f](https://note.com/smartsidenote/n/n9f985989105f)
+
+[https://note.com/smartsidenote/n/nc51934d20f35](https://note.com/smartsidenote/n/nc51934d20f35)
+
+[https://note.com/smartsidenote/n/n1f804012414d](https://note.com/smartsidenote/n/n1f804012414d)
+
+[https://note.com/smartsidenote/n/n96c1a5141b1d](https://note.com/smartsidenote/n/n96c1a5141b1d)
+
+[https://note.com/smartsidenote/n/nc10909cc15eb](https://note.com/smartsidenote/n/nc10909cc15eb?from=notice)
+
+[https://note.com/smartsidenote/n/n320e8aa8076d](https://note.com/smartsidenote/n/n320e8aa8076d)
+
+
+
+
+[[2025-09-12-03 OneNoteの共有URLをiframeでWebページに埋め込める？]]
