@@ -264,3 +264,36 @@ git push -u origin main
 * **Webエディタ** = 最低限の編集（簡単、でもPull不可）
 * **Working Copy** = iPadを「第2のPC」にするレベルでGit運用可能
 
+### 📝 iPadのObsidianで編集したmdファイルをGitHubにpushする手順（Working Copy利用）
+
+1. **Obsidianでファイルを編集**
+   - iPadのObsidianアプリで、対象のMarkdownファイル（Vault内）を編集・保存します。
+
+2. **Working Copyを開く**
+   - Working Copyアプリを起動し、該当のリポジトリ（Vault）を選択します。
+
+3. **変更内容を確認**
+   - 画面下部の「Changes」タブで、編集したファイルがリストアップされていることを確認します。
+   - 差分（Diff）もここで確認できます。
+
+4. **コミットを作成**
+   - 右上の「Commit」ボタンをタップ。
+   - コミットメッセージ（例: `fix: ノートを更新` など）を入力し、「Commit」を実行。
+
+5. **GitHubにPush**
+   - コミット後、画面下部の「Push」ボタンをタップ。
+   - これでGitHub上のリポジトリに変更が反映されます。
+
+#### 💡 ポイント
+- Obsidianで編集しただけではGitHubには反映されません。**Working Copyで「Commit」→「Push」**が必要です。
+- 初回のみ、Working CopyでGitHubリポジトリの認証や連携設定が必要な場合があります。
+
+#### ⏩ まとめ
+1. Obsidianで編集
+2. Working CopyでCommit
+3. Working CopyでPush
+
+この流れで、iPadだけでGitHubにノートを反映できます！
+
+
+[[A13 Cursorで質問して回答をもらう方法]]
