@@ -58,6 +58,8 @@ index.md
 
 「ブログを書きたいけどWordPressは難しそう…」という方には、Jekyll＋GitHub Pagesの組み合わせがピッタリです！🌈
 
+---
+
 ※この記事はChatGPTの回答を基に作成しています。
 
 [[B14 GitHubにおける「shell」と「bash」とは？初心者向け徹底解説 🐚💻]]
