@@ -1,5 +1,9 @@
 [[B13 GitHubにおける「Jekyll（ジキル）」とは？初心者向け徹底解説 🚀]]
 
+https://note.com/smartsidenote/n/n67ddd4c14021
+https://note.com/smartsidenote/n/ne461fe4f1ec4
+https://note.com/smartsidenote/n/na48b006a6a71
+
 ## shellとbashの基本 📝
 GitHubの操作や自動化の説明でよく出てくる **「shell」** や **「bash」**。これはプログラミング言語ではなく、**コンピュータとやり取りするための仕組み** です。特にGitHub Actionsなどの自動処理を書くときに頻出します。
 
