@@ -1,5 +1,10 @@
 [[B12 GitHubにおける「コンフリクト」とは？初心者向け解説 ⚡️📝]]
 
+https://note.com/smartsidenote/n/n67ddd4c14021
+https://note.com/smartsidenote/n/ne5198707ab04
+https://note.com/smartsidenote/n/ne461fe4f1ec4
+
+
 ## Jekyllとは？ 📝
 GitHubにおける **Jekyll（ジキル）** とは、**静的サイトジェネレーター** と呼ばれるツールです。HTMLを直接書かなくても、MarkdownやLiquid（テンプレート言語）を使って簡単にブログやWebサイトを作れるのが特徴です。特に **GitHub Pages** と組み合わせることで、サーバーを用意せずに自分のサイトを公開できます。
 
