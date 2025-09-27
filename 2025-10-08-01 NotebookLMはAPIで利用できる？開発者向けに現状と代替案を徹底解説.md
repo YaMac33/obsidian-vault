@@ -1,6 +1,8 @@
+# NotebookLMはAPIで利用できる？開発者向けに現状と代替案を徹底解説
 
-
-# 【2025年最新】NotebookLMはAPIで利用できる？開発者向けに現状と代替案を徹底解説
+https://note.com/smartsidenote/n/n4f59dce68793
+https://note.com/smartsidenote/n/nd22b9b16d98e
+https://note.com/smartsidenote/n/nd79ba0888540
 
 ジャンル・カテゴリ：テクニカル解説
 [[#はじめに]]

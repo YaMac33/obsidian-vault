@@ -1,4 +1,9 @@
-# NotebookLMを公開Webページで第三者に利用させることは可能か？
+# NotebookLMを公開Webページで第三者に利用させることは可能？
+
+https://note.com/smartsidenote/n/n4f59dce68793
+https://note.com/smartsidenote/n/nd22b9b16d98e
+https://note.com/smartsidenote/n/nd79ba0888540
+https://note.com/smartsidenote/n/nad1dcccccf4a
 
 ジャンル・カテゴリ：ハウツー / サービス仕様解説  
 [[#概要]]  
@@ -35,4 +40,4 @@ NotebookLMを第三者に直接使わせることはできませんが、以下�
 - NotebookLMは「個人/組織アカウント専用のAI研究アシスタント」であり、**公開Webページに埋め込んで第三者に利用させることはできない**。  
 - 代替策としては「生成した成果物を共有」するか、埋め込み可能なAIサービス（ChatGPT APIやGemini APIなど）を利用するのが現実的。  
 
-※この記事はChatGPTの回答を基に作成しています。  
+※この記事はAIの回答を基に作成しています。  
