@@ -1,10 +1,11 @@
 [[2025-09-22-02 OpenAIの「gpt-realtime」と「Realtime API」の解説]]
 
 https://note.com/smartsidenote/n/n06ddcf95e029
+https://note.com/smartsidenote/n/n6c11fd03b24e
 ## 概要
 - 「会話の途中にある特定のメッセージを起点として、新しいチャットへ会話を分岐（ブランチ）させる機能」は、既存の会話の任意の箇所を起点に**別のチャット（新しいスレッド）**を作って並行して試行・比較できる機能です。OpenAIのリリースノートで正式に案内されています。  [oai_citation:0‡OpenAI Help Center](https://help.openai.com/en/articles/6825453-chatgpt-release-notes?utm_source=chatgpt.com)
 
-## 要点（短く）
+## 要点
 - ブランチは「ある時点の会話の状態」を起点にして**新しい会話**を作る。元の会話はそのまま残る。  [oai_citation:1‡OpenAI Help Center](https://help.openai.com/en/articles/6825453-chatgpt-release-notes?utm_source=chatgpt.com)  
 - 現時点ではWeb（ブラウザ）上での提供が中心（リリース時点でWebで利用可能と明示）。  [oai_citation:2‡OpenAI Help Center](https://help.openai.com/en/articles/6825453-chatgpt-release-notes?utm_source=chatgpt.com)  
 - ブランチ先のチャットは履歴パネルに別のチャットとして現れ、分岐元のコンテキスト（その時点までのやり取り）が引き継がれる。  [oai_citation:3‡BGR](https://www.bgr.com/1959993/chatgpt-branch-conversations-new-feature-now-available/?utm_source=chatgpt.com) [oai_citation:4‡DEV Community](https://dev.to/alifar/chatgpt-branch-conversations-nonlinear-prompting-for-developers-1an9?utm_source=chatgpt.com)  
@@ -81,6 +82,6 @@ https://note.com/smartsidenote/n/n06ddcf95e029
 - 「Branch in new chat」で**『同じ起点から別方向を安全に試せる』**ことがこの機能の肝です。  
 - まずはWebで1〜2回試作して、ワークフローにどう組み込むか気軽に検証してみてください（実務適用→整理→運用ルール化、のサイクルが効きます）。  [oai_citation:34‡OpenAI Help Center](https://help.openai.com/en/articles/6825453-chatgpt-release-notes?utm_source=chatgpt.com) [oai_citation:35‡DEV Community](https://dev.to/alifar/chatgpt-branch-conversations-nonlinear-prompting-for-developers-1an9?utm_source=chatgpt.com)
 
-※この記事はChatGPTで生成しています。
+※この記事はAIの回答を基に作成しています。
 
 [[D01 ノートを「PDF化」ではなく「Webページ化」できるサービスはある？]]
